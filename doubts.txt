@@ -1,0 +1,1 @@
+  setRegisterationData((prevData)=>({...prevData,[e.target.id]:e.target.value})) //why ()in callback function in function body
